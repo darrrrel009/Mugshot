@@ -122,6 +122,11 @@ footer {
     .button-container {
         flex-direction: column;
     }
+        body {
+        background-size: 180%; /* Scales down the background size by 40% */
+      
+    }
+
 }
 
 .dropdown {
